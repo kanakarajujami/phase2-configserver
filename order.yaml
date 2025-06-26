@@ -1,8 +1,8 @@
 
 build:
-  version: 5.5
+  version: 8.8
 
 order:
   id: 400
   prodName: '{cipher}aecee519d142d5d9cc4e2e20aa3e43e2cb055cb16e3f8a224d41f4c6ab8bf16b'
-  date: 2050-06-29
+  date: 2040-06-29
