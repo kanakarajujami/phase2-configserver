@@ -1,8 +1,8 @@
 
 build:
-  version: 1.1
+  version: 2.2
 
 order:
   id: 300
   prodName: '{cipher}aecee519d142d5d9cc4e2e20aa3e43e2cb055cb16e3f8a224d41f4c6ab8bf16b'
-  date: 2025-06-24
+  date: 2028-06-28
